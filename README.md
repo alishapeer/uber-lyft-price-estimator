@@ -1,4 +1,4 @@
-# uber-lyft-price-estimator
+# uber-lyft-price-predictor
 
 Uber and Lyft, two of the most popular ridesharing transportation companies, are constantly being compared.
 
